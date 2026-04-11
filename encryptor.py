@@ -14,3 +14,6 @@ def process(): pass
 
 # Update 113: Integrate documentation
 # Timestamp: 2026-03-28 15:01:26
+
+# Update 127: Simplify user interface
+# Timestamp: 2026-04-11 15:01:35
