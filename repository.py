@@ -14,3 +14,6 @@ def process(): pass
 
 # Update 119: Patch serialization
 # Timestamp: 2026-04-03 15:01:30
+
+# Update 129: Update event handlers
+# Timestamp: 2026-04-13 15:01:36
